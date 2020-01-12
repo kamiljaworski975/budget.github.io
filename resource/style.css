@@ -173,6 +173,11 @@ body {
     border: 1px solid #1E9600;
 }
 
+.icon-check {
+    font-size:35px;
+    color: #1E9600;
+}
+
 .add__btn:focus { outline: none; }
 
 /***** LISTS *****/
